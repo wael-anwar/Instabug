@@ -1,5 +1,5 @@
-# Instabug
-Instabug Backend Challenge (Ruby on Rails) and GoLang APIs
+# Instabug Chat System Backend Challenge
+Instabug Backend Challenge (Ruby on Rails) and Golang APIs
 
 Table of Contents
 =================
